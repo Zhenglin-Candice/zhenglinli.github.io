@@ -45,6 +45,7 @@ redirect_from:
   </div>
 </div>
 
+
 ### 视觉-毫米波雷达融合感知
 <div class='paper-box'>
   <!-- 第一部分：视觉-毫米波雷达动态交互3D目标检测 -->
@@ -88,15 +89,9 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div>
         <img src="images/img13.jpg" alt="图像13" width="100%">
-      </div>
-      <div>
         <img src="images/img14.jpg" alt="图像14" width="100%">
-      </div>
-      <div>
         <img src="images/img15.jpg" alt="图像15" width="100%">
-      </div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -140,7 +135,7 @@ redirect_from:
 ### 环境感知不确定性建模
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src="images/img11.jpg" alt="图像11" width="100%">
+    <img src="images/img11.jpg" alt="图像11" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -191,4 +186,3 @@ redirect_from:
 
 - **邮箱**：[zhenglin_li@shu.edu.cn](mailto:zhenglin_li@shu.edu.cn)
 - **地址**：上海市，上海大学未来技术学院/人工智能研究院
-<span class='anchor' id='CV'></span>
