@@ -19,6 +19,8 @@ redirect_from:
 # 🙋‍♂️ <font color="#4A708B">个人简介</font>
 李政霖，博士，副教授，博士生导师。本硕毕业于大连理工大学，博士毕业于英国谢菲尔德大学。上海市海外高层次人才，主持国家自然科学基金青年、启明星培育等多项纵向课题、以第一及通讯作者在重要学术期刊和国际会议上发表多篇论文，其中包括 IEEE Trans. on Industrial Informatics，IEEE Trans. on Intelligent Transportation Systems，IJCAI等。中国人工智能学会智能机器人专委会委员、Cyborg and Bionic Systems期刊（IF 10.5）青年编委。
 
+<span class='anchor' id='pub'></span>
+
 # 📝 <font color="#4A708B">主要研究领域</font>
 1. **自动驾驶/机器人感知及端到端系统**：包括多传感器融合感知、协同感知、端到端自动驾驶、占用网格估计、水面无人艇感知等；
 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；

@@ -4,9 +4,9 @@ main:
     url: "/zhenglinli.github.io/#about-me"
 
   - title: "研究方向"
-    url: "/zhenglinli.github.io/_pages/res"
+    url: "/zhenglinli.github.io/_pages/#pub"
 
   - title: "test"
-    url: /zhenglinli.github.io/_pages/test
+    url: /zhenglinli.github.io/test
 
 
