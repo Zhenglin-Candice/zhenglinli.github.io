@@ -122,19 +122,7 @@ redirect_from:
 ## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 ### 环境感知不确定性建模
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src="images/img11.jpg" alt="图像11" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-- 不确定性不可避免，不应忽视
-- 量化不确定性对自动驾驶安全至关重要
-- 考虑不确定性能有效提升感知精度
-- 为预测、规划提供重要参考信息
-
-  </div>
-</div>
 
 <div class='paper-box'>
     <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
