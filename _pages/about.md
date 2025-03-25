@@ -89,29 +89,7 @@ redirect_from:
   </video>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-     <div>
-      <div>
-        <img src="images/img13.jpg" alt="图像13" width="100%">
-      </div>
-      <div>
-        <img src="images/img14.jpg" alt="图像14" width="100%">
-      </div>
-      <div>
-        <img src="images/img15.jpg" alt="图像15" width="100%">
-      </div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-- 大模型赋能垂直领域任务  
-- 端到端信息交互优化集群协同  
-- 减少累积误差，实现精确控制  
-- 降低时间延迟，适应高动态水面场景  
-- 船舶水动力学消除摇荡影响  
-- 感知-规划端到端系统不确定性
-  </div>
-</div>
+
 
 
 ## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
