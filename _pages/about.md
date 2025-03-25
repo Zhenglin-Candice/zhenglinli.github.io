@@ -22,9 +22,10 @@ redirect_from:
 <span class='anchor' id='pub'></span>
 
 # 📝 <font color="#4A708B">主要研究领域</font>
-1. **自动驾驶/机器人感知及端到端系统**：包括多传感器融合感知、协同感知、端到端自动驾驶、占用网格估计、水面无人艇感知等；
 
-## 1. 视觉-毫米波雷达水面融合感知
+## 1. **自动驾驶/机器人感知及端到端系统**：包括多传感器融合感知、协同感知、端到端自动驾驶、占用网格估计、水面无人艇感知等；
+
+### 1. 视觉-毫米波雷达水面融合感知
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,8 +56,10 @@ redirect_from:
 <video controls width="49%"><source src='images/output_2.mp4' type="video/mp4"></video>
 </div></div></div>
 
-1. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
-2. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
+
+## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
+   
+## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 
 <span class='anchor' id='publication'></span>
 
