@@ -47,6 +47,7 @@ redirect_from:
 
 
 ### 视觉-毫米波雷达融合感知
+
 <div class='paper-box'>
   <!-- 第一部分：视觉-毫米波雷达动态交互3D目标检测 -->
   <div>
@@ -80,6 +81,7 @@ redirect_from:
 </div>
 
 ### 端到端系统
+
 <div class='paper-box'>
   <video controls width="100%">
     <source src='images/output_2.mp4' type="video/mp4">
@@ -88,10 +90,16 @@ redirect_from:
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
+     <div>
+      <div>
         <img src="images/img13.jpg" alt="图像13" width="100%">
-        <img src="images/img14.jpg" alt="图像14" width="50%">
-        <img src="images/img15.jpg" alt="图像15" width="50%">
+      </div>
+      <div>
+        <img src="images/img14.jpg" alt="图像14" width="100%">
+      </div>
+      <div>
+        <img src="images/img15.jpg" alt="图像15" width="100%">
+      </div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -133,6 +141,7 @@ redirect_from:
 
 ## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 ### 环境感知不确定性建模
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src="images/img11.jpg" alt="图像11" width="100%">
