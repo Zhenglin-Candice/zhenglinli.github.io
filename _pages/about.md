@@ -25,7 +25,7 @@ redirect_from:
 
 ## 1. **自动驾驶/机器人感知及端到端系统**：包括多传感器融合感知、协同感知、端到端自动驾驶、占用网格估计、水面无人艇感知等；
 
-### 1. 视觉-毫米波雷达水面融合感知
+### 视觉-毫米波雷达水面融合感知
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,22 +35,50 @@ redirect_from:
 </div>
 </div>
 
-### test
 <div>
-  
-  <!-- 图1和视频1并排 -->
   <div style="display: flex; justify-content: space-between;">
     <img src="images/img1.jpg" alt="视觉-雷达融合感知示意图" width="49%">
     <video controls width="49%"><source src="images/video1.mp4" type="video/mp4"></video>
   </div>
-  
-  <!-- 图2单独一行 -->
   <div>
-    <img src="images/img2.jpg" alt="长图示例" width="100%">
+    <img src="images/img2.jpg" alt="长图" width="100%">
   </div>
 </div>
 
-### test 2
+### 视觉-毫米波雷达融合感知
+<div class='paper-box'>
+  <!-- 第一部分：视觉-毫米波雷达动态交互3D目标检测 -->
+  <div>
+    <p>视觉-毫米波雷达动态交互3D目标检测</p>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+      <figure style="text-align: center; margin: 0 5px; width: 48%;">
+        <img src="images/img3.jpg" alt="图像3" style="width: 100%; height: auto; object-fit: contain;">
+      </figure>
+      <figure style="text-align: center; margin: 0 5px; width: 48%;">
+        <img src="images/img4.jpg" alt="图像4" style="width: 100%; height: auto; object-fit: contain;">
+      </figure>
+    </div>
+  </div>
+
+  <!-- 第二部分：视觉光流与毫米波雷达融合的关键目标速度解构 -->
+  <div>
+    <p>视觉光流与毫米波雷达融合的关键目标速度解构</p>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+      <figure style="text-align: center; margin: 0 5px; width: 48%;">
+        <video controls style="width: 100%; height: auto; object-fit: contain;">
+          <source src="images/video2.mp4" type="video/mp4">
+        </video>
+      </figure>
+      <figure style="text-align: center; margin: 0 5px; width: 48%;">
+        <video controls style="width: 100%; height: auto; object-fit: contain;">
+          <source src="images/video3.mp4" type="video/mp4">
+        </video>
+      </figure>
+    </div>
+  </div>
+</div>
+
+### 端到端系统
 <div class='paper-box'>
   <video controls width="100%">
     <source src='images/output_2.mp4' type="video/mp4">
@@ -63,27 +91,22 @@ redirect_from:
 <div class='paper-box'>
   <h3>3D目标检测的分割视角位置编码</h3>
   <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <figure style="text-align: center; margin: 0 5px;">
-      <img src="images/img5.jpg" alt="图像5" width="100%">
-      <figcaption>图5: 描述内容</figcaption>
+    <figure style="text-align: center; margin: 0 5px; width: 48%;">
+      <img src="images/img5.jpg" alt="图像5" style="width: 100%; height: auto; object-fit: contain;">
     </figure>
-    <figure style="text-align: center; margin: 0 5px;">
-      <img src="images/img6.jpg" alt="图像6" width="100%">
-      <figcaption>图6: 描述内容</figcaption>
+    <figure style="text-align: center; margin: 0 5px; width: 48%;">
+      <img src="images/img6.jpg" alt="图像6" style="width: 100%; height: auto; object-fit: contain;">
     </figure>
   </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
     <figure style="text-align:intrepreter: center; margin: 0 5px;">
       <img src="images/img7.jpg" alt="图像7" width="100%">
-      <figcaption>图7: 描述内容</figcaption>
     </figure>
     <figure style="text-align: center; margin: 0 5px;">
       <img src="images/img8.jpg" alt="图像8" width="100%">
-      <figcaption>图8: 描述内容</figcaption>
     </figure>
     <figure style="text-align: center; margin: 0 5px;">
       <img src="images/img9.jpg" alt="图像9" width="100%">
-      <figcaption>图9: 描述内容</figcaption>
     </figure>
   </div>
   <p>将全局空间进行多层级分割，与虚拟视角空间对齐并进行位置编码，以低计算量实现全局注意力</p>
