@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "简介"
-    url: "/#about-me"
+    url: "/zhenglinli.github.io/#about-me"
 
   - title: "CV"
-    url: "/#cv"
+    url: "/zhenglinli.github.io/#CV"
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /zhenglinli.github.io/test
 
   - title: "Categories"
     url: /categories/
