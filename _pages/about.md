@@ -90,17 +90,17 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
         <img src="images/img13.jpg" alt="图像13" width="100%">
-        <img src="images/img14.jpg" alt="图像14" width="100%">
-        <img src="images/img15.jpg" alt="图像15" width="100%">
+        <img src="images/img14.jpg" alt="图像14" width="50%">
+        <img src="images/img15.jpg" alt="图像15" width="50%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    - 大模型赋能垂直领域任务  
-    - 端到端信息交互优化集群协同  
-    - 减少累积误差，实现精确控制  
-    - 降低时间延迟，适应高动态水面场景  
-    - 船舶水动力学消除摇荡影响  
-    - 感知-规划端到端系统不确定性
+- 大模型赋能垂直领域任务  
+- 端到端信息交互优化集群协同  
+- 减少累积误差，实现精确控制  
+- 降低时间延迟，适应高动态水面场景  
+- 船舶水动力学消除摇荡影响  
+- 感知-规划端到端系统不确定性
   </div>
 </div>
 
@@ -178,6 +178,7 @@ redirect_from:
 <span class='anchor' id='project'></span>
 
 # 📝 <font color="#4A708B">科研项目（主持与在研项目）</font>
+
 1. **军委科技委“XXXXXX”项目子课题**，XX环境理解与XX安全控制技术研究，主持，505万元
 2. **国家自然科学基金青年项目**，面向未知多变场景的视觉自主火灾监测，30万元，负责人
 3. **上海市启明星培育（扬帆专项）**，基于无人艇的海洋温盐场重构及传感器部署智能规划，20万元，负责人
