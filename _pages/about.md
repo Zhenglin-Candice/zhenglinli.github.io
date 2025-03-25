@@ -29,32 +29,52 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**视觉-毫米波雷达水面融合感知**
-
-[Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association](https://doi.org/10.1109/JSEN.2024.xxxxxxx)
-
-**IEEE Sensors Journal**, 2024<br>
-
+Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association，IEEE Sensors Journal，2024
 - 减弱水面反射、平台晃动、逆光或阴雨的影响
 - 在复杂场景下具有可靠检测性能
-
-- **视觉-毫米波雷达动态交互3D目标检测**
-
-- **视觉光流与毫米波雷达融合的关键目标速度解构**
 </div>
 </div>
 
-### 图片和视频展示
+### test
+<div>
+  <!-- 文字部分 -->
+  <div>
+    **视觉-毫米波雷达水面融合感知**
+    
+    Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association, IEEE Sensors Journal, 2024
+    
+    - 减弱水面反射、平台晃动、逆光或阴雨的影响
+    - 在复杂场景下具有可靠检测性能
+  </div>
+  
+  <!-- 下划线 -->
+  <hr>
+  
+  <!-- 图1和视频1并排 -->
+  <div style="display: flex; justify-content: space-between;">
+    <img src="images/img1.jpg" alt="视觉-雷达融合感知示意图" width="49%">
+    <video controls width="49%"><source src="images/video1.mp4" type="video/mp4"></video>
+  </div>
+  
+  <!-- 图2单独一行 -->
+  <div>
+    <img src="images/img2.jpg" alt="长图示例" width="100%">
+  </div>
+</div>
+
+### **视觉-毫米波雷达动态交互3D目标检测**
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/img1.jpg' alt="图片1" width="49%">
-<img src='images/img2.jpg' alt="图片2" width="49%">
+<img src='images/img1.jpg' alt="图片1" width="100%">
+<img src='images/img2.jpg' alt="图片2" width="100%">
 </div></div></div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div>
-<video controls width="49%"><source src='images/output_2.mp4' type="video/mp4"></video>
-</div></div></div>
+### test 2
+<div class='paper-box'>
+  <video controls width="100%">
+    <source src='images/output_2.mp4' type="video/mp4">
+  </video>
+</div>
 
 
 ## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
@@ -75,6 +95,8 @@ redirect_from:
 9. Zhenglin Li, Mahnaz Arvaneh, Heather E. Elphick, Ruth N. Kingshott, Lyudmila S. Mihaylova. A Dirichlet Process Mixture Model for Autonomous Sleep Apnea Detection Using Oxygen Saturation Data. 2020 IEEE 23rd International Conference on Information Fusion (FUSION), 2020, pp. 1–8.
 10. Wenbo Zheng, Zhenglin Li, Wenbo Xie, Songyi Zhong, Tianxin Yuan, Yan Peng. SCON: Semantic Cross-Modal Data Association Offset Estimation Network for Radar-Vision Feature Fusion. 2024 IEEE International Conference on Unmanned Systems (ICUS), 2024, pp. 1516–1520.
 
+
+<span class='anchor' id='project'></span>
 
 # 📝 <font color="#4A708B">科研项目（主持与在研项目）</font>
 1. **军委科技委“XXXXXX”项目子课题**，XX环境理解与XX安全控制技术研究，主持，505万元

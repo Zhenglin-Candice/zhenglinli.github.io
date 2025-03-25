@@ -6,7 +6,10 @@ main:
   - title: "研究方向"
     url: "/zhenglinli.github.io/#pub"
 
-  - title: "test"
-    url: /zhenglinli.github.io/res
+  - title: "代表性科研成果"
+    url: /zhenglinli.github.io/#publication
+  
+  - title: "主持科研项目"
+    url: /zhenglinli.github.io/#project
 
 
