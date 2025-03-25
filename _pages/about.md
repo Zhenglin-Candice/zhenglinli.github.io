@@ -85,6 +85,21 @@ redirect_from:
   </video>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src="images/img13.jpg" alt="图像13" width="100%"><img src="images/img14.jpg" alt="图像14" width="100%"><img src="images/img15.jpg" alt="图像15" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+    - 大模型赋能垂直领域任务
+    - 端到端信息交互优化集群协同
+    - 减少累积误差，实现精确控制
+    - 降低时间延迟，适应高动态水面场景
+    - 船舶水动力学消除摇荡影响
+    - 感知-规划端到端系统不确定性
+  </div>
+</div>
 
 ## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
 
@@ -114,6 +129,34 @@ redirect_from:
 </div>
 
 ## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
+### 环境感知不确定性建模
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src="images/img11.jpg" alt="图像11" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+- 不确定性不可避免，不应忽视
+- 量化不确定性对自动驾驶安全至关重要
+- 考虑不确定性能有效提升感知精度
+- 为预测、规划提供重要参考信息
+
+  </div>
+</div>
+
+<div class='paper-box'>
+<p>视觉-毫米波雷达动态交互3D目标检测</p>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+      <figure style="text-align: center; margin: 0 5px; width: 48%;">
+        <img src="images/img10.jpg" alt="图像10" style="width: 100%; height: auto; object-fit: contain;">
+        <figcaption>环境感知结果不确定性量化</figcaption>
+      </figure>
+      <figure style="text-align: center; margin: 0 5px; width: 48%;">
+        <img src="images/img12.jpg" alt="图像12" style="width: 100%; height: auto; object-fit: contain;">
+        <figcaption>引入不确定性有效改善小目标与部分遮挡目标的检测精度</figcaption>
+      </figure>
+    </div>
+</div>
 
 <span class='anchor' id='publication'></span>
 
