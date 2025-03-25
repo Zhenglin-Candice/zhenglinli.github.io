@@ -137,6 +137,21 @@ redirect_from:
     </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/img11.jpg' alt="图像11" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+- 不确定性不可避免，不应忽视
+- 量化不确定性对自动驾驶安全至关重要
+- 考虑不确定性能有效提升感知精度
+- 为预测、规划提供重要参考信息
+</div>
+</div>
+
+
 <span class='anchor' id='publication'></span>
 
 
