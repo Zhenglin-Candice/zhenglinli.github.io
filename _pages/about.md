@@ -23,8 +23,40 @@ redirect_from:
 
 # 📝 <font color="#4A708B">主要研究领域</font>
 1. **自动驾驶/机器人感知及端到端系统**：包括多传感器融合感知、协同感知、端到端自动驾驶、占用网格估计、水面无人艇感知等；
-2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
-3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
+
+## 1. 视觉-毫米波雷达水面融合感知
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**视觉-毫米波雷达水面融合感知**
+
+[Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association](https://doi.org/10.1109/JSEN.2024.xxxxxxx)
+
+**IEEE Sensors Journal**, 2024<br>
+
+- 减弱水面反射、平台晃动、逆光或阴雨的影响
+- 在复杂场景下具有可靠检测性能
+
+- **视觉-毫米波雷达动态交互3D目标检测**
+
+- **视觉光流与毫米波雷达融合的关键目标速度解构**
+</div>
+</div>
+
+### 图片和视频展示
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='images/img1.jpg' alt="图片1" width="49%">
+<img src='images/img2.jpg' alt="图片2" width="49%">
+</div></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<video controls width="49%"><source src='images/output_2.mp4' type="video/mp4"></video>
+</div></div></div>
+
+1. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
+2. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 
 <span class='anchor' id='publication'></span>
 
