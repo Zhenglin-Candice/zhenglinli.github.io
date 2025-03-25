@@ -89,7 +89,21 @@ redirect_from:
   </video>
 </div>
 
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/img11.jpg' alt="图像11" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+- 大模型赋能垂直领域任务  
+- 端到端信息交互优化集群协同  
+- 减少累积误差，实现精确控制  
+- 降低时间延迟，适应高动态水面场景  
+- 船舶水动力学消除摇荡影响  
+- 感知-规划端到端系统不确定性
+</div>
+</div>
 
 
 ## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
@@ -122,7 +136,20 @@ redirect_from:
 ## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 ### 环境感知不确定性建模
 
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/img11.jpg' alt="图像11" width="100%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+MonoAux: Fully Exploiting Auxiliary Information and Uncertainty for Monocular 3D Object Detection, Cyborg and Bionic System（IF 10.5), 2024
+- 不确定性不可避免，不应忽视
+- 量化不确定性对自动驾驶安全至关重要
+- 考虑不确定性能有效提升感知精度
+- 为预测、规划提供重要参考信息
+</div>
+</div>
 
 <div class='paper-box'>
     <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
@@ -137,19 +164,7 @@ redirect_from:
     </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/img11.jpg' alt="图像11" width="100%">
-    </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-- 不确定性不可避免，不应忽视
-- 量化不确定性对自动驾驶安全至关重要
-- 考虑不确定性能有效提升感知精度
-- 为预测、规划提供重要参考信息
-</div>
-</div>
+
 
 
 <span class='anchor' id='publication'></span>
