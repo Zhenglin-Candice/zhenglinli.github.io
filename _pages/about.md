@@ -29,7 +29,7 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association，IEEE Sensors Journal，2024
+*Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association，IEEE Sensors Journal，2024*
 - 减弱水面反射、平台晃动、逆光或阴雨的影响
 - 在复杂场景下具有可靠检测性能
 </div>
@@ -37,18 +37,6 @@ Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware
 
 ### test
 <div>
-  <!-- 文字部分 -->
-  <div>
-    **视觉-毫米波雷达水面融合感知**
-    
-    Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association, IEEE Sensors Journal, 2024
-    
-    - 减弱水面反射、平台晃动、逆光或阴雨的影响
-    - 在复杂场景下具有可靠检测性能
-  </div>
-  
-  <!-- 下划线 -->
-  <hr>
   
   <!-- 图1和视频1并排 -->
   <div style="display: flex; justify-content: space-between;">
@@ -62,13 +50,6 @@ Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware
   </div>
 </div>
 
-### **视觉-毫米波雷达动态交互3D目标检测**
-
-<div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/img1.jpg' alt="图片1" width="100%">
-<img src='images/img2.jpg' alt="图片2" width="100%">
-</div></div></div>
-
 ### test 2
 <div class='paper-box'>
   <video controls width="100%">
@@ -78,7 +59,37 @@ Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware
 
 
 ## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
-   
+
+<div class='paper-box'>
+  <h3>3D目标检测的分割视角位置编码</h3>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <figure style="text-align: center; margin: 0 5px;">
+      <img src="images/img5.jpg" alt="图像5" width="100%">
+      <figcaption>图5: 描述内容</figcaption>
+    </figure>
+    <figure style="text-align: center; margin: 0 5px;">
+      <img src="images/img6.jpg" alt="图像6" width="100%">
+      <figcaption>图6: 描述内容</figcaption>
+    </figure>
+  </div>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <figure style="text-align:intrepreter: center; margin: 0 5px;">
+      <img src="images/img7.jpg" alt="图像7" width="100%">
+      <figcaption>图7: 描述内容</figcaption>
+    </figure>
+    <figure style="text-align: center; margin: 0 5px;">
+      <img src="images/img8.jpg" alt="图像8" width="100%">
+      <figcaption>图8: 描述内容</figcaption>
+    </figure>
+    <figure style="text-align: center; margin: 0 5px;">
+      <img src="images/img9.jpg" alt="图像9" width="100%">
+      <figcaption>图9: 描述内容</figcaption>
+    </figure>
+  </div>
+  <p>将全局空间进行多层级分割，与虚拟视角空间对齐并进行位置编码，以低计算量实现全局注意力</p>
+  <p style="font-size: smaller; margin-top: 10px;">DVPE: divided view position embedding for multi-view 3D object detection，IJCAI 2024（CCF A）</p>
+</div>
+
 ## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 
 <span class='anchor' id='publication'></span>
