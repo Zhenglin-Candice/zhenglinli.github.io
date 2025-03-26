@@ -37,7 +37,6 @@ redirect_from:
 
 <div>
   <div style="display: flex; justify-content: space-between;">
-    <img src="images/img1.jpg" alt="视觉-雷达融合感知示意图" width="49%">
     <video controls width="49%"><source src="images/video1.mp4" type="video/mp4"></video>
   </div>
   <div>
