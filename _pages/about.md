@@ -37,7 +37,7 @@ redirect_from:
 
 <div>
   <div style="display: flex; justify-content: space-between;">
-    <video controls width="49%"><source src="images/video1.mp4" type="video/mp4"></video>
+    <video controls width="60%"><source src="images/video1.mp4" type="video/mp4"></video>
   </div>
   <div>
     <img src="images/img2.jpg" alt="长图" width="100%">
