@@ -81,7 +81,7 @@ redirect_from:
 
 
 ### 端到端系统
-
+端到端自动驾驶系统可定义为完全可微的过程，以原始传感器数据为输入，并产生规划和/或低级控制动作作为输出。
 <div class='paper-box'>
   <video controls width="100%">
     <source src='images/output_2.mp4' type="video/mp4">
@@ -97,9 +97,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 - 大模型赋能垂直领域任务  
 - 端到端信息交互优化集群协同  
-- 减少累积误差，实现精确控制  
-- 降低时间延迟，适应高动态水面场景  
-- 船舶水动力学消除摇荡影响  
+- 减少累积误差，实现精确控制   
 - 感知-规划端到端系统不确定性
 </div>
 </div>
