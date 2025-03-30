@@ -25,6 +25,32 @@ redirect_from:
 
 ## 1. **自动驾驶/机器人感知及端到端系统**：包括多传感器融合感知、协同感知、端到端自动驾驶、占用网格估计、水面无人艇感知等；
 
+### 多视图融合感知
+<div class='paper-box'>
+  <h3>3D目标检测的分割视角位置编码</h3>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <figure style="text-align: center; margin: 0 5px; width: 48%;">
+      <img src="images/img5.jpg" alt="图像5" style="width: 100%; height: auto; object-fit: contain;">
+    </figure>
+    <figure style="text-align: center; margin: 0 5px; width: 48%;">
+      <img src="images/img6.jpg" alt="图像6" style="width: 100%; height: auto; object-fit: contain;">
+    </figure>
+  </div>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <figure style="text-align:intrepreter: center; margin: 0 5px;">
+      <img src="images/img7.jpg" alt="图像7" width="100%">
+    </figure>
+    <figure style="text-align: center; margin: 0 5px;">
+      <img src="images/img8.jpg" alt="图像8" width="100%">
+    </figure>
+    <figure style="text-align: center; margin: 0 5px;">
+      <img src="images/img9.jpg" alt="图像9" width="100%">
+    </figure>
+  </div>
+  <p>将全局空间进行多层级分割，与虚拟视角空间对齐并进行位置编码，以低计算量实现全局注意力</p>
+  <p style="font-size: smaller; margin-top: 10px;">DVPE: divided view position embedding for multi-view 3D object detection，IJCAI 2024（CCF A）</p>
+</div>
+
 ### 视觉-毫米波雷达水面融合感知
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
@@ -105,30 +131,7 @@ redirect_from:
 
 ## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
 
-<div class='paper-box'>
-  <h3>3D目标检测的分割视角位置编码</h3>
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <figure style="text-align: center; margin: 0 5px; width: 48%;">
-      <img src="images/img5.jpg" alt="图像5" style="width: 100%; height: auto; object-fit: contain;">
-    </figure>
-    <figure style="text-align: center; margin: 0 5px; width: 48%;">
-      <img src="images/img6.jpg" alt="图像6" style="width: 100%; height: auto; object-fit: contain;">
-    </figure>
-  </div>
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <figure style="text-align:intrepreter: center; margin: 0 5px;">
-      <img src="images/img7.jpg" alt="图像7" width="100%">
-    </figure>
-    <figure style="text-align: center; margin: 0 5px;">
-      <img src="images/img8.jpg" alt="图像8" width="100%">
-    </figure>
-    <figure style="text-align: center; margin: 0 5px;">
-      <img src="images/img9.jpg" alt="图像9" width="100%">
-    </figure>
-  </div>
-  <p>将全局空间进行多层级分割，与虚拟视角空间对齐并进行位置编码，以低计算量实现全局注意力</p>
-  <p style="font-size: smaller; margin-top: 10px;">DVPE: divided view position embedding for multi-view 3D object detection，IJCAI 2024（CCF A）</p>
-</div>
+
 
 ## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 ### 环境感知不确定性建模
