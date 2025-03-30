@@ -91,7 +91,7 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/img11.jpg' alt="图像11" width="100%">
+      <img src='images/End2end.jpg' alt="图像11" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
