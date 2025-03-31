@@ -134,7 +134,7 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/img11.jpg' alt="图像11" width="100%">
+      <img src='images/img10.jpg' alt="图像10" width="100%">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
@@ -149,7 +149,7 @@ MonoAux: Fully Exploiting Auxiliary Information and Uncertainty for Monocular 3D
 <div class='paper-box'>
     <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
       <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <img src="images/img10.jpg" alt="图像10" style="width: 100%; height: auto; object-fit: contain;">
+        <img src="images/img11.jpg" alt="图像11" style="width: 100%; height: auto; object-fit: contain;">
         <figcaption>环境感知结果不确定性量化</figcaption>
       </figure>
       <figure style="text-align: center; margin: 0 5px; width: 48%;">
