@@ -125,6 +125,14 @@ redirect_from:
 ## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
 新视角合成 (Novel View Synthesis) ：给定源图像 (Source Image) 及源姿态 (Source Pose)，以及目标姿态 (Target Pose)，渲染生成目标姿态对应的的图片 (Target Image)。
 
+<div class='paper-box'>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+      <figure style="text-align: center; margin: 0 5px; width: 90%;">
+        <img src="images/ConditonalDiff.jpg" alt="生成式图像增强" style="width: 100%; height: auto; object-fit: contain;">
+        <figcaption>环境感知结果不确定性量化</figcaption>
+      </figure>
+    </div>
+</div>
 
 ## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
 ### 环境感知不确定性建模
