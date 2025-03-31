@@ -31,6 +31,7 @@ redirect_from:
   <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
     <figure style="text-align: center; margin: 0 5px; width: 100%;">
       <img src="images/img5.jpg" alt="图像5" style="width: 100%; height: auto; object-fit: contain;">
+    </figure>
   </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
     <figure style="text-align:intrepreter: center; margin: 0 5px;">
