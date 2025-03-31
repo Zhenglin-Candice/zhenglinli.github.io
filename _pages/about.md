@@ -102,7 +102,7 @@ redirect_from:
 ### 端到端系统
 端到端自动驾驶系统可定义为完全可微的过程，以原始传感器数据为输入，并产生规划和/或低级控制动作作为输出。
 <div class='paper-box'>
-  <video controls width="90%">
+  <video controls width="95%">
     <source src='images/output_2.mp4' type="video/mp4">
   </video>
 </div>
