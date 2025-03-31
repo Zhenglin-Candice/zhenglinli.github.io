@@ -110,14 +110,14 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/End2end.jpg' alt="图像11" width="300%">
+      <img src='images/End2end.jpg' alt="图像11" width="500%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    - 大模型赋能垂直领域任务  
-    - 端到端信息交互优化集群协同  
-    - 减少累积误差，实现精确控制   
-    - 感知-规划端到端系统不确定性
+  - 大模型赋能垂直领域任务  
+  - 端到端信息交互优化集群协同  
+  - 减少累积误差，实现精确控制   
+  - 感知-规划端到端系统不确定性
   </div>
 </div>
 
