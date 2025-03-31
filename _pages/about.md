@@ -34,7 +34,7 @@ redirect_from:
     </figure>
   </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <figure style="text-align:intrepreter: center; margin: 0 5px;">
+    <figure style="text-align: center; margin: 0 5px;">
       <img src="images/img7.jpg" alt="图像7" width="100%">
     </figure>
     <figure style="text-align: center; margin: 0 5px;">
@@ -115,12 +115,12 @@ redirect_from:
       <img src='images/End2end.jpg' alt="图像11" width="300%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
 - 大模型赋能垂直领域任务  
 - 端到端信息交互优化集群协同  
 - 减少累积误差，实现精确控制   
 - 感知-规划端到端系统不确定性
-</div>
+  </div>
 </div>
 
 
