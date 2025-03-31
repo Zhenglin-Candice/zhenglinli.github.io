@@ -47,7 +47,6 @@ redirect_from:
   <p style="font-size: smaller; margin-top: 10px;">DVPE: divided view position embedding for multi-view 3D object detection，IJCAI 2024（CCF A）</p>
 </div>
 
-
 ### 视觉-毫米波雷达水面融合感知
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
@@ -66,7 +65,6 @@ redirect_from:
     <img src="images/img2.jpg" alt="长图" width="100%">
   </div>
 </div>
-
 
 ### 视觉-毫米波雷达融合感知
 
@@ -101,7 +99,6 @@ redirect_from:
     </div>
   </div>
 </div>
-
 
 ### 端到端系统
 端到端自动驾驶系统可定义为完全可微的过程，以原始传感器数据为输入，并产生规划和/或低级控制动作作为输出。
