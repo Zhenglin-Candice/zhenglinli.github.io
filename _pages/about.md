@@ -150,8 +150,8 @@ MonoAux: Fully Exploiting Auxiliary Information and Uncertainty for Monocular 3D
         <img src="images/img11.jpg" alt="图像11" style="width: 100%; height: auto; object-fit: contain;">
         <figcaption>环境感知结果不确定性量化</figcaption>
       </figure>
-      <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <img src="images/img12.jpg" alt="图像12" style="width: 100%; height: auto; object-fit: contain;">
+      <figure style="text-align: center; margin: 0 5px; width: 50%;">
+        <img src="images/img12.jpg" alt="图像12" style="width: 120%; height: auto; object-fit: contain;">
         <figcaption>引入不确定性有效改善小目标与部分遮挡目标的检测精度</figcaption>
       </figure>
     </div>
