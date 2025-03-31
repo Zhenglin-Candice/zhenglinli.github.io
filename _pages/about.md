@@ -128,7 +128,7 @@ redirect_from:
 <div class='paper-box'>
     <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
       <figure style="text-align: center; margin: 0 5px; width: 90%;">
-        <img src="images/ConditonalDiff.jpg" alt="生成式图像增强" style="width: 100%; height: auto; object-fit: contain;">
+        <img src="images/ConditonalDiff.png" alt="生成式图像增强" style="width: 100%; height: auto; object-fit: contain;">
         <figcaption>生成式图像增强,提升数据多样性</figcaption>
       </figure>
     </div>
